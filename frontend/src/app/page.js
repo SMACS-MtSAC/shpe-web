@@ -79,7 +79,7 @@ export default function Home() {
             Discord
           </a>
         </p>
-        <hr class="h-px my-24 bg-gray-200 border-0 dark:bg-gray-700 w-4/5"></hr>
+        <hr className="h-px my-24 bg-gray-200 border-0 dark:bg-gray-700 w-4/5"></hr>
         <div className="container mx-auto px-4 my-8 w-4/5">
           <h1 className="text-3xl font-bold mb-6 my-12">Upcoming Events</h1>
           {/* Responsive grid: 1 column on phone, 2 on iPad, and 3 on desktop */}
